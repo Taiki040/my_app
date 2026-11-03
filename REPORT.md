@@ -14,7 +14,7 @@
 - アプリ名：空中手書き電卓
 - 1文での説明：Webカメラに映した指先の空中描画から、数字と演算子記号をリアルタイム識別し、四則演算を行う計算機アプリ。
 - repository：`https://github.com/Taiki040/my_app.git`
-- final commit: `b495c31 docs: DEV_LOG.mdの最終記述とチェックリストの更新`
+- final commit: `5f41914: DEV_LOG.mdの最終記述とチェックリストの更新`
 - 実行手順：`README.md` の「実行方法」を参照
 
 ## 2. 問題設定と利用場面
