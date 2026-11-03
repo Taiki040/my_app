@@ -1,0 +1,6 @@
+mediapipe==0.10.21
+opencv-contrib-python==4.10.0.84
+streamlit>=1.37,<2
+streamlit-webrtc>=0.47,<1
+torch>=2.2
+torchvision>=0.17
